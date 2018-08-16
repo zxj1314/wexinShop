@@ -1,0 +1,17 @@
+D:\SvnRepository\weixinshop\weixin-java\src\main\java\com\cbd\weixin\domain\XmlMessageEntity.java
+D:\SvnRepository\weixinshop\weixin-java\src\main\java\com\cbd\weixin\service\impl\ClientServiceImpl.java
+D:\SvnRepository\weixinshop\weixin-java\src\main\java\com\cbd\weixin\utils\MessageUtil.java
+D:\SvnRepository\weixinshop\weixin-java\src\main\java\com\cbd\weixin\service\IClientService.java
+D:\SvnRepository\weixinshop\weixin-java\src\main\java\com\cbd\weixin\utils\SecurityUtil.java
+D:\SvnRepository\weixinshop\weixin-java\src\main\java\com\cbd\weixin\config\weixinpay\WxPayProperties.java
+D:\SvnRepository\weixinshop\weixin-java\src\main\java\com\cbd\weixin\controller\WxErrorController.java
+D:\SvnRepository\weixinshop\weixin-java\src\main\java\com\cbd\weixin\utils\HttpUtil.java
+D:\SvnRepository\weixinshop\weixin-java\src\main\java\com\cbd\weixin\domain\Client.java
+D:\SvnRepository\weixinshop\weixin-java\src\main\java\com\cbd\weixin\utils\WeixinUtil.java
+D:\SvnRepository\weixinshop\weixin-java\src\main\java\com\cbd\weixin\config\weixinpay\WxPayConfiguration.java
+D:\SvnRepository\weixinshop\weixin-java\src\main\java\com\cbd\weixin\controller\WeixinController.java
+D:\SvnRepository\weixinshop\weixin-java\src\main\java\com\cbd\weixin\controller\WxPayController.java
+D:\SvnRepository\weixinshop\weixin-java\src\main\java\com\cbd\weixin\domain\ArticleResponse.java
+D:\SvnRepository\weixinshop\weixin-java\src\main\java\com\cbd\weixin\mapper\ClientMapper.java
+D:\SvnRepository\weixinshop\weixin-java\src\main\java\com\cbd\weixin\config\MapperScanConfigure.java
+D:\SvnRepository\weixinshop\weixin-java\src\main\java\com\cbd\weixin\WxShopApplication.java
